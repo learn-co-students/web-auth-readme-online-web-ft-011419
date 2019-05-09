@@ -1280,3 +1280,266 @@ Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8b
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-15 00:51:22 -0500
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:20:17 -0400
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /home/kevin/.rvm/gems/ruby-2.6.0/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
+Processing by SearchesController#search as HTML
+  Rendering searches/search.html.erb within layouts/application
+  Rendered searches/search.html.erb within layouts/application (30.9ms)
+Completed 200 OK in 702ms (Views: 653.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:24:57 -0400
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /home/kevin/.rvm/gems/ruby-2.6.0/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=#{client_id}&response_type=code&redirect_uri=#{redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 64ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:24:59 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=#{client_id}&response_type=code&redirect_uri=#{redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:24:59 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=#{client_id}&response_type=code&redirect_uri=#{redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:24:59 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=#{client_id}&response_type=code&redirect_uri=#{redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:25:04 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=#{client_id}&response_type=code&redirect_uri=#{redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:25:04 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=#{client_id}&response_type=code&redirect_uri=#{redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:25:30 -0400
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /home/kevin/.rvm/gems/ruby-2.6.0/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=#{client_id}&response_type=code&redirect_uri=#{redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 56ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:26:01 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=${client_id}&response_type=code&redirect_uri=${redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:26:08 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=${client_id}&response_type=code&redirect_uri=${redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/search" for 127.0.0.1 at 2019-05-08 19:26:32 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=${client_id}&response_type=code&redirect_uri=${redirect_uri}
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 19:27:36 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=3K1WK4D0HD2BYHIJNBCF1RUKNPZHLGGXSJZWZUZK2GAGNDUP&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=FKSS4OXFMBKQB0X4ALPZTZ4PAE1OTX0YSFIPPQSJIRO2GPF1" for 127.0.0.1 at 2019-05-08 19:27:54 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+rack (2.0.7) lib/rack/handler/webrick.rb:86:in `service'
+/home/kevin/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:140:in `service'
+/home/kevin/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:96:in `run'
+/home/kevin/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.8ms)
+  Rendered collection of /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [3 times] (7.3ms)
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (67.0ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (458.3ms)
+DEPRECATION WARNING: Accessing mime types via constants is deprecated. Please change `Mime::HTML` to `Mime[:html]`. (called from acceptable_content_type? at /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:58)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+DEPRECATION WARNING: Accessing mime types via constants is deprecated. Please change `Mime::WEB_CONSOLE_V2` to `Mime[:web_console_v2]`. (called from __home_kevin__rvm_gems_ruby_______gems_web_console_______lib_web_console_templates_console_js_erb__263275857144428906_70368589299980 at /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb:491)
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (306.5ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (683.4ms)
+Started GET "/auth?code=FKSS4OXFMBKQB0X4ALPZTZ4PAE1OTX0YSFIPPQSJIRO2GPF1" for 127.0.0.1 at 2019-05-08 21:56:49 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"FKSS4OXFMBKQB0X4ALPZTZ4PAE1OTX0YSFIPPQSJIRO2GPF1"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 387ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 21:56:49 -0400
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=3K1WK4D0HD2BYHIJNBCF1RUKNPZHLGGXSJZWZUZK2GAGNDUP&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=PA0Y1EAS5ST3XABYU3Y54SLOKOJCMMXRPT4UC3C05C53WPHH" for 127.0.0.1 at 2019-05-08 21:56:52 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"PA0Y1EAS5ST3XABYU3Y54SLOKOJCMMXRPT4UC3C05C53WPHH"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 193ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 21:56:53 -0400
+Processing by SearchesController#search as HTML
+  Rendering searches/search.html.erb within layouts/application
+  Rendered searches/search.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 363ms (Views: 355.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 22:00:17 -0400
+Processing by SearchesController#search as HTML
+  Rendering searches/search.html.erb within layouts/application
+  Rendered searches/search.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 64ms (Views: 47.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/friends" for 127.0.0.1 at 2019-05-08 22:00:21 -0400
+Processing by SearchesController#friends as HTML
+  Rendering searches/friends.html.erb within layouts/application
+  Rendered searches/friends.html.erb within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 225ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/mnt/c/users/Kevin Kang/flatiron/labs/web-auth-readme-online-web-ft-011419/app/views/searches/friends.html.erb:6: syntax error, unexpected '<', expecting tSTRING_DEND
+            </li>
+            ^
+/mnt/c/users/Kevin Kang/flatiron/labs/web-auth-readme-online-web-ft-011419/app/views/searches/friends.html.erb:8: unknown regexp option - l
+/mnt/c/users/Kevin Kang/flatiron/labs/web-auth-readme-online-web-ft-011419/app/views/searches/friends.html.erb:10: syntax error, unexpected tIDENTIFIER, expecting do or '{' or '('
+....safe_append='    <p>Looks like you don\'t have any foursqua...
+...                           ^~~~
+/mnt/c/users/Kevin Kang/flatiron/labs/web-auth-readme-online-web-ft-011419/app/views/searches/friends.html.erb:10: syntax error, unexpected backslash
+...end='    <p>Looks like you don\'t have any foursquare friend...
+...                              ^
+/mnt/c/users/Kevin Kang/flatiron/labs/web-auth-readme-online-web-ft-011419/app/views/searches/friends.html.erb:11: syntax error, unexpected end, expecting tSTRING_DEND
+'.freeze; end 
+          ^~~
+/mnt/c/users/Kevin Kang/flatiron/labs/web-auth-readme-online-web-ft-011419/app/views/searches/friends.html.erb:13: syntax error, unexpected ensure, expecting tSTRING_DEND
+          ensure
+          ^~~~~~
+/mnt/c/users/Kevin Kang/flatiron/labs/web-auth-readme-online-web-ft-011419/app/views/searches/friends.html.erb:15: syntax error, unexpected end, expecting tSTRING_DEND
+          end
+          ^~~):
+  
+app/views/searches/friends.html.erb:6: syntax error, unexpected '<', expecting tSTRING_DEND
+app/views/searches/friends.html.erb:8: unknown regexp option - l
+app/views/searches/friends.html.erb:10: syntax error, unexpected tIDENTIFIER, expecting do or '{' or '('
+app/views/searches/friends.html.erb:10: syntax error, unexpected backslash
+app/views/searches/friends.html.erb:11: syntax error, unexpected end, expecting tSTRING_DEND
+app/views/searches/friends.html.erb:13: syntax error, unexpected ensure, expecting tSTRING_DEND
+app/views/searches/friends.html.erb:15: syntax error, unexpected end, expecting tSTRING_DEND
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (2.8ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (278.1ms)
+DEPRECATION WARNING: Accessing mime types via constants is deprecated. Please change `Mime::HTML` to `Mime[:html]`. (called from acceptable_content_type? at /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:58)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+DEPRECATION WARNING: Accessing mime types via constants is deprecated. Please change `Mime::WEB_CONSOLE_V2` to `Mime[:web_console_v2]`. (called from __home_kevin__rvm_gems_ruby_______gems_web_console_______lib_web_console_templates_console_js_erb__263275857144428906_70311378636580 at /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb:491)
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (293.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendering /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/kevin/.rvm/gems/ruby-2.6.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (663.0ms)
+Started GET "/friends" for 127.0.0.1 at 2019-05-08 22:02:38 -0400
+Processing by SearchesController#friends as HTML
+  Rendering searches/friends.html.erb within layouts/application
+  Rendered searches/friends.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 356ms (Views: 78.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 22:02:43 -0400
+Processing by SearchesController#search as HTML
+  Rendering searches/search.html.erb within layouts/application
+  Rendered searches/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 45ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for 127.0.0.1 at 2019-05-08 22:02:48 -0400
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PY/521FeST7+xTYExAt7Kib65D5reoBLcvQRBDt6wmd6nQ2ZeoUWurvrSSww4N8LENc+v1hAwx/YywVJ/1NxKw==", "zipcode"=>"02138", "commit"=>"Search!"}
+  Rendering searches/search.html.erb within layouts/application
+  Rendered searches/search.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 421ms (Views: 121.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/friends" for 127.0.0.1 at 2019-05-08 22:02:53 -0400
+Processing by SearchesController#friends as HTML
+  Rendering searches/friends.html.erb within layouts/application
+  Rendered searches/friends.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 269ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
